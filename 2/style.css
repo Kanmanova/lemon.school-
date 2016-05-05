@@ -1,0 +1,35 @@
+Article {
+	text-align: center;
+}
+h1 {
+	color: #A52A2A
+}
+span {
+	text-decoration: underline;
+	color: #0000FF
+}
+img {
+      width: 300px;
+      border: 4px double #f0f;
+    }
+    figcaption {
+      font-size: 1.2em;
+    }
+    p.left {
+      text-align: left;
+      border-left: 4px dashed #8A2BE2;
+    }
+    ol {
+      text-align: left;
+      font-size: 1.2em;
+      color: #006400;
+    }
+    a {
+      color: #006400;
+    }
+    a:hover {
+      text-decoration: none;
+    }
+    footer {
+      border-bottom: 2px dashed #000;
+    }
