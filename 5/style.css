@@ -1,0 +1,27 @@
+#body, #html {
+margin:0px;
+padding:0px;
+}
+
+#header{
+background-color:#00FFFF;
+height: 100px;
+}
+
+#content{
+background-color:# 	#FFFFFF;
+height: 470px;
+width: 100%;
+float: center;
+}
+.red {
+  background: red;
+  z-index: 1;
+  position: absolute;
+}
+#footer{
+background-color:#696969;
+clear: both;
+height: 100px;
+bottom: 0;
+}

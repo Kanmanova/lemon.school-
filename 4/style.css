@@ -1,0 +1,36 @@
+#body, #html {
+margin:0px;
+padding:0px;
+}
+#container {
+width:100%;
+margin:0 auto;
+}
+#header{
+background-color:#C0C000;
+height: 100px;
+}
+#left{
+background-color:#00C0C0;
+width:33,3%;
+float:left;
+height: 200px;
+}
+#center{
+background-color:#8080FF;
+height: 200px;
+width: 100%;
+float: center;
+}
+#right{
+width:33,3%;
+background-color:#FFFF00;
+float: right;
+height: 200px;
+clear: right;
+}
+#footer{
+background-color:#FFC0FF;
+clear: both;
+height: 200px;
+}
